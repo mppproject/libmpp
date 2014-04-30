@@ -1,0 +1,2 @@
+#define xIO_vfscanf_internal _IO_vfscanf_internal
+#define _xw9ra vfscanf

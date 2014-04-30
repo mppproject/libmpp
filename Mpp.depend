@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1393164345 source:c:\users\hamza\documents\c_projets\mpp\main.cpp
+	"mpp.h"
+
+1393164365 c:\users\hamza\documents\c_projets\mpp\mpp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+

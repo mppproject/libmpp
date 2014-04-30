@@ -1,0 +1,62 @@
+___  ___                 ______          _           _
+|  \/  |                 | ___ \        (_)         | |
+| .  . |_ __  _ __ ______| |_/ / __ ___  _  ___  ___| |_
+| |\/| | '_ \| '_ \______|  __/ '__/ _ \| |/ _ \/ __| __|
+| |  | | |_) | |_) |     | |  | | | (_) | |  __/ (__| |_
+\_|  |_/ .__/| .__/      \_|  |_|  \___/| |\___|\___|\__|
+       | |   | |                       _/ |
+       |_|   |_|                      |__/
+
+[+]MPP is a C-based programming language that allows you to code more easily in Darija.
+[+]Author : Naper & ismail
+[+]Web site : blog.naper.eu
+[+]Web site : mpp-project.org
+
+
+===<> mpp.h <>===
+
+:: khawi
+:: ra9m
+:: _7arf
+:: joumla
+:: r3o9adi
+:: _3achari
+:: war9a // fichier
+:: tabitr // const ra9m
+:: tabir_7 // const _7arf
+:: _ra9me
+
+khawi bdakolchi(joumla smit_lprojet); // Permet d'afficher un header et changer le titre de la console
+
+khawi ktab(joumla message,...); // Permet d'ecrire du text formaté sans un retour à la ligne
+
+khawi rlstar(joumla message ,...); // Permet d'ecrire du text formaté avec un retour à la ligne
+
+_ra9me zaid(ra9m a, ra9m b); // Permet de faire une operation + pour les types _ra9me
+
+_ra9me na9is(ra9m a, ra9m b); // Permet de faire une operation - pour les types _ra9me
+
+ra9m rja3(ra9m a); // Permet de retourner une valeur
+
+khawi rja3_lkhawi(); // Permet de retourner un vide 
+
+khawi stn3as(ra9m value); // Permet de quitter le programme ex : stn3as(1);
+
+khawi wari_ra9me(_ra9me a); // Permet d'afficher un type _ra9me
+
+khawi wari_3o9adi(r3o9adi a); // permet d'afficher un type _3o9adi
+
+khawi ila_ra9m(ra9m a , ra9m b, _7arf message[MAX]); // Permet de faire une condition sur les types ra9m
+
+khawi lanci(_7arf cmd [MAX]); // Permet de lancer une commande sous windows ou linux 
+
+khawi wari(_7arf message[], ra9m a); // Permet d'afficher un ra9m avec un message
+
+khawi _9ra(joumla message,...); // Permet de scanner un text formaté 
+
+khawi w9ra(war9a w,joumla fichier,ra9m kifach); // Permet de lire un fichier 
+
+khawi r9ra(ra9m a); // Permet de lire un ra9m
+
+
+
