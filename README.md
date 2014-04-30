@@ -5,7 +5,7 @@ MPP is a C-based programming language that allows you to code more easily in the
 
 Requirements :
 - root privileges
-- having access to the internet
+- having internet access
 - libc header files
 
 
@@ -22,7 +22,7 @@ For Red hat users :
 
         yum install -y glibc-devel.i386
 
-Running the installer
+Running the installer :
 
 Before running the installer, we need to make it executable by typing:
 
