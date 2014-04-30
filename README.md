@@ -1,7 +1,7 @@
 libmpp
 ======
 
-MPP is a C-based programming language that allows you to code more easily in Darija.
+MPP is a C-based programming language that allows you to code more easily in the moroccan Darija.
 
 Requirements :
 - root privileges
@@ -12,7 +12,7 @@ Requirements :
 Installing Dependencies
 ======
 
-We start by making sure that we have installed the libc header files. type the following command at shell prompt
+The libc header files need to be installed in order to run the kmpp compiler. To install, type the following at the command prompt :
 
 (Debian/Ubuntu users)
 
@@ -24,9 +24,7 @@ For Red hat users :
 
 Running the installer
 
-Once the required package has been installed, we can now begin with the installation without any problem :)
-
-We will start by making the file executable by typing
+Before running the installer, we need to make it executable by typing:
 
         chmod 777 mpp.install
 
